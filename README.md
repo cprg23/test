@@ -1,3 +1,4 @@
+```
 Group 1
 Ivan Barbashev       VGK  14
 William Nylander     TOR  11
@@ -48,3 +49,4 @@ Connor Murphy        CHI   0
 Matt Benning         TOR   0
 Nolan Allan          CHI   0
 Simon Benoit         TOR   0
+```
