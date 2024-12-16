@@ -1,52 +1,53 @@
 ```
 Group 1
-Ivan Barbashev       VGK  14
-William Nylander     TOR  11
-Kirill Marchenko     CBJ  10
-John Tavares         TOR   9
-Bo Horvat            NYI   7
-Sean Monahan         CBJ   6
-Taylor Hall          CHI   6
-Dylan Cozens         BUF   5
-Mitch Marner         TOR   5
-Tyler Bertuzzi       CHI   5
-Jesperi Kotkaniemi   CAR   4
-Mark Stone           VGK   4
-Seth Jarvis          CAR   3
-Teuvo Teravainen     CHI   2
-Tomas Hertl          VGK   2
+Leon Draisaitl       EDM  18
+Mikko Rantanen       COL  13
+Connor McMichael     WSH  12
+Matt Duchene         DAL  10
+Sam Bennett          FLA  10
+Sam Reinhart         FLA   9
+Casey Mittelstadt    COL   6
+Evan Bouchard        EDM   6
+Valeri Nichushkin    COL   6
+Carter Verhaeghe     FLA   5
+Conor Garland        VAN   5
+Jason Robertson      DAL   5
+Matthew Tkachuk      FLA   5
+Logan Stankoven      DAL   3
+Nils Hoglander       VAN   2
 
 Group 2
-Jack Roslovic        CAR  13
-Keegan Kolesar       VGK   7
-Pavel Dorofeyev      VGK   7
-Jordan Martinook     CAR   6
-Reilly Smith         NYR   6
-Zach Werenski        CBJ   6
-Jake Middleton       MIN   5
-Bowen Byram          BUF   4
-Max Pacioretty       TOR   4
-Owen Power           BUF   4
-Kaapo Kakko          NYR   3
-Sean Kuraly          CBJ   3
-Steven Lorentz       TOR   3
-Jordan Staal         CAR   2
-Nicholas Robertson   TOR   2
+Mason Marchment      DAL  11
+Artturi Lehkonen     COL   9
+Kiefer Sherwood      VAN   8
+Jakob Chychrun       WSH   7
+Jamie Benn           DAL   6
+Anton Lundell        FLA   5
+Brock Boeser         VAN   5
+Evgenii Dadonov      DAL   5
+Taylor Raddysh       WSH   4
+Thomas Harley        DAL   4
+Gustav Forsling      FLA   3
+Jakub Vrana          WSH   3
+Kasperi Kapanen      STL,EDM   3
+Aaron Ekblad         FLA   1
+Mattias Janmark      EDM   1
 
 Group 3
-Will Cuylle          NYR   9
-Damon Severson       CBJ   6
-Frederick Gaudreau   MIN   5
-James van Riemsdyk   CBJ   4
-Alexander Holtz      VGK   2
-Brock Faber          MIN   2
-Shayne Gostisbehere  CAR   2
-Declan Chisholm      MIN   1
-Justin Faulk         STL   1
-Oliver Ekman-Larsson TOR   1
-Ryan Lindgren        NYR   1
-Connor Murphy        CHI   0
-Matt Benning         TOR   0
-Nolan Allan          CHI   0
-Simon Benoit         TOR   0
+Brandon Duhaime      WSH   4
+Jesper Boqvist       FLA   4
+A.J. Greer           FLA   3
+Dmitry Kulikov       FLA   3
+Vasily Podkolzin     EDM   3
+Darnell Nurse        EDM   2
+Niko Mikkola         FLA   2
+Carson Soucy         VAN   1
+Jonah Gadjovich      FLA   1
+Matt Roy             WSH   1
+Sam Malinski         COL   1
+Calvin de Haan       COL   0
+Hendrix Lapierre     WSH   0
+Trevor van Riemsdyk  WSH   0
+Vincent Desharnais   VAN   0
+
 ```
