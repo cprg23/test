@@ -1,4 +1,23 @@
 ```
+Counter({'WPG': 6,
+         'MTL': 6,
+         'CGY': 6,
+         'OTT': 6,
+         'NYR': 4,
+         'PIT': 3,
+         'LAK': 2,
+         'CBJ': 2,
+         'BUF': 2,
+         'SJS': 2,
+         'CAR': 1,
+         'PIT,WSH': 1,
+         'SEA': 1,
+         'TBL': 1,
+         'COL,SJS': 1,
+         'NJD': 1})
+```
+
+```
 Group 1
 Mark Scheifele       WPG  13
 Bryan Rust           PIT  10
