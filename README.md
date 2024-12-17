@@ -1,53 +1,53 @@
 ```
 Group 1
-Leon Draisaitl       EDM  18
-Mikko Rantanen       COL  13
-Connor McMichael     WSH  12
-Matt Duchene         DAL  10
-Sam Bennett          FLA  10
-Sam Reinhart         FLA   9
-Casey Mittelstadt    COL   6
-Evan Bouchard        EDM   6
-Valeri Nichushkin    COL   6
-Carter Verhaeghe     FLA   5
-Conor Garland        VAN   5
-Jason Robertson      DAL   5
-Matthew Tkachuk      FLA   5
-Logan Stankoven      DAL   3
-Nils Hoglander       VAN   2
+Mark Scheifele       WPG  13
+Bryan Rust           PIT  10
+Nick Suzuki          MTL  10
+Rickard Rakell       PIT  10
+Kyle Connor          WPG   9
+Nazem Kadri          CGY   9
+Josh Norris          OTT   8
+Brady Tkachuk        OTT   7
+Sean Monahan         CBJ   6
+Dylan Cozens         BUF   5
+Matty Beniers        SEA   4
+Joel Armia           MTL   3
+MacKenzie Weegar     CGY   2
+William Eklund       SJS   2
+Adam Fox             NYR   1
 
 Group 2
-Mason Marchment      DAL  11
-Artturi Lehkonen     COL   9
-Kiefer Sherwood      VAN   8
-Jakob Chychrun       WSH   7
-Jamie Benn           DAL   6
-Anton Lundell        FLA   5
-Brock Boeser         VAN   5
-Evgenii Dadonov      DAL   5
-Taylor Raddysh       WSH   4
-Thomas Harley        DAL   4
-Gustav Forsling      FLA   3
-Jakub Vrana          WSH   3
-Kasperi Kapanen      STL,EDM   3
-Aaron Ekblad         FLA   1
-Mattias Janmark      EDM   1
+Alex Laferriere      LAK  10
+Adam Lowry           WPG   8
+Jordan Martinook     CAR   7
+Vladislav Namestnikov WPG   7
+Connor Zary          CGY   6
+Reilly Smith         NYR   6
+Jason Zucker         BUF   5
+Jake Evans           MTL   4
+Rasmus Andersson     CGY   4
+Alex Turcotte        LAK   3
+Michael Eyssimont    TBL   3
+Noel Acciari         PIT   3
+Christian Dvorak     MTL   2
+Michael Amadio       OTT   2
+Zack MacEwen         OTT   2
 
 Group 3
-Brandon Duhaime      WSH   4
-Jesper Boqvist       FLA   4
-A.J. Greer           FLA   3
-Dmitry Kulikov       FLA   3
-Vasily Podkolzin     EDM   3
-Darnell Nurse        EDM   2
-Niko Mikkola         FLA   2
-Carson Soucy         VAN   1
-Jonah Gadjovich      FLA   1
-Matt Roy             WSH   1
-Sam Malinski         COL   1
-Calvin de Haan       COL   0
-Hendrix Lapierre     WSH   0
-Trevor van Riemsdyk  WSH   0
-Vincent Desharnais   VAN   0
+Lars Eller           PIT,WSH   6
+Kevin Rooney         CGY   3
+Kaiden Guhle         MTL   2
+Neal Pionk           WPG   2
+Nikolai Kovalenko    COL,SJS   2
+Noah Gregor          OTT   2
+Brenden Dillon       NJD   1
+Ivan Provorov        CBJ   1
+Lane Hutson          MTL   1
+Ryan Lindgren        NYR   1
+Tyler Kleven         OTT   1
+Zac Jones            NYR   1
+Dylan DeMelo         WPG   0
+Jan Rutta            SJS   0
+Ryan Lomberg         CGY   0
 
 ```
