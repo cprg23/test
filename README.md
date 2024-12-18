@@ -1,72 +1,66 @@
 ```
-Counter({'WPG': 6,
-         'MTL': 6,
-         'CGY': 6,
-         'OTT': 6,
-         'NYR': 4,
-         'PIT': 3,
-         'LAK': 2,
-         'CBJ': 2,
-         'BUF': 2,
-         'SJS': 2,
-         'CAR': 1,
-         'PIT,WSH': 1,
-         'SEA': 1,
-         'TBL': 1,
-         'COL,SJS': 1,
-         'NJD': 1})
+['ANA', 'DAL', 'DET', 'FLA', 'MIN', 'PHI', 'TOR', 'UTA', 'VAN', 'WPG']
+Counter({'TOR': 9,
+         'WPG': 6,
+         'VAN': 6,
+         'UTA': 5,
+         'DET': 4,
+         'PHI': 4,
+         'FLA': 4,
+         'ANA': 3,
+         'MIN': 3,
+         'DAL': 1})
 ```
 
 ```
 Group 1
-Mark Scheifele       WPG  13
-Bryan Rust           PIT  10
-Nick Suzuki          MTL  10
-Rickard Rakell       PIT  10
-Kyle Connor          WPG   9
-Nazem Kadri          CGY   9
-Josh Norris          OTT   8
-Brady Tkachuk        OTT   7
-Sean Monahan         CBJ   6
-Dylan Cozens         BUF   5
-Matty Beniers        SEA   4
-Joel Armia           MTL   3
-MacKenzie Weegar     CGY   2
-William Eklund       SJS   2
-Adam Fox             NYR   1
+John Tavares          TOR  11
+Kyle Connor           WPG  10
+Lucas Raymond         DET  10
+Matthew Knies         TOR  10
+Nino Niederreiter     WPG   9
+Owen Tippett          PHI   9
+Dylan Guenther        UTA   8
+Jake DeBrusk          VAN   8
+Travis Konecny        PHI   8
+Alex Killorn          ANA   6
+Conor Garland         VAN   5
+Matthew Tkachuk       FLA   5
+Mitch Marner          TOR   5
+Barrett Hayton        UTA   4
+Mason McTavish        ANA   2
 
 Group 2
-Alex Laferriere      LAK  10
-Adam Lowry           WPG   8
-Jordan Martinook     CAR   7
+Andrew Copp           DET   7
 Vladislav Namestnikov WPG   7
-Connor Zary          CGY   6
-Reilly Smith         NYR   6
-Jason Zucker         BUF   5
-Jake Evans           MTL   4
-Rasmus Andersson     CGY   4
-Alex Turcotte        LAK   3
-Michael Eyssimont    TBL   3
-Noel Acciari         PIT   3
-Christian Dvorak     MTL   2
-Michael Amadio       OTT   2
-Zack MacEwen         OTT   2
+Brock Boeser          VAN   5
+Logan Cooley          UTA   5
+Mats Zuccarello       MIN   5
+Danton Heinen         VAN   4
+Gustav Forsling       FLA   4
+Morgan Frost          PHI   4
+Moritz Seider         DET   4
+Cole Perfetti         WPG   3
+Nicholas Robertson    TOR   3
+Nick Bjugstad         UTA   3
+Joe Veleno            DET   1
+Max Domi              TOR   1
+David Kampf           TOR   0
 
 Group 3
-Lars Eller           PIT,WSH   6
-Kevin Rooney         CGY   3
-Kaiden Guhle         MTL   2
-Neal Pionk           WPG   2
-Nikolai Kovalenko    COL,SJS   2
-Noah Gregor          OTT   2
-Brenden Dillon       NJD   1
-Ivan Provorov        CBJ   1
-Lane Hutson          MTL   1
-Ryan Lindgren        NYR   1
-Tyler Kleven         OTT   1
-Zac Jones            NYR   1
-Dylan DeMelo         WPG   0
-Jan Rutta            SJS   0
-Ryan Lomberg         CGY   0
-
+Mikhail Sergachev     UTA   5
+Teddy Blueger         VAN   4
+A.J. Greer            FLA   3
+Dmitry Kulikov        FLA   3
+Jared Spurgeon        MIN   3
+Brock Faber           MIN   2
+Rasmus Kupari         WPG   2
+Chris Tanev           TOR   1
+Conor Timmins         TOR   1
+Oliver Ekman-Larsson  TOR   1
+Rasmus Ristolainen    PHI   1
+Dylan DeMelo          WPG   0
+Ilya Lyubushkin       DAL   0
+Radko Gudas           ANA   0
+Vincent Desharnais    VAN   0
 ```
