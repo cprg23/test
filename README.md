@@ -1,87 +1,85 @@
 ```
-['BOS',
- 'CBJ',
- 'CGY',
- 'CHI',
- 'EDM',
- 'LAK',
- 'NJD',
- 'NSH',
- 'OTT',
- 'PHI',
- 'PIT',
- 'SJS',
+['ANA',
+ 'BUF',
+ 'CAR',
+ 'COL',
+ 'DAL',
+ 'DET',
+ 'FLA',
+ 'MIN',
+ 'MTL',
+ 'NYR',
  'STL',
- 'TBL',
- 'VAN',
- 'VGK']
-Counter({'EDM': 6,
-         'CGY': 6,
-         'VAN': 6,
-         'OTT': 5,
-         'VGK': 4,
-         'SJS': 3,
-         'TBL': 2,
-         'PHI': 2,
-         'PIT': 2,
-         'BOS': 2,
-         'STL': 2,
-         'LAK': 1,
-         'NSH': 1,
-         'CHI': 1,
-         'CBJ': 1,
-         'NJD': 1})
+ 'TOR',
+ 'UTA',
+ 'WSH']
+ 
+Counter({'TOR': 9,
+         'MTL': 6,
+         'CAR': 4,
+         'DAL': 4,
+         'BUF': 3,
+         'WSH': 3,
+         'NYR': 3,
+         'COL': 3,
+         'UTA': 2,
+         'DET': 2,
+         'FLA': 2,
+         'ANA': 2,
+         'MIN': 1,
+         'STL': 1})
+
 ```
 
 ```
 Group 1
-Leon Draisaitl        EDM  23
-Jake Guentzel         TBL  18
-Brady Tkachuk         OTT  15
-Brandon Hagel         TBL  15
-Connor McDavid        EDM  14
-Tyler Toffoli         SJS  13
-Nazem Kadri           CGY  12
-Owen Tippett          PHI  10
-Tomas Hertl           VGK   9
-Elias Pettersson      VAN   8
-J.T. Miller           VAN   6
-Tyson Foerster        PHI   6
-Yegor Sharangovich    CGY   6
-Barclay Goodrow       SJS   2
-Tim Stutzle           SJS   0
+William Nylander      TOR  20
+Cole Caufield         MTL  17
+Tage Thompson         BUF  16
+Connor McMichael      WSH  15
+John Tavares          TOR  15
+Martin Necas          CAR  14
+Clayton Keller        UTA  11
+Auston Matthews       TOR  10
+Alex Tuch             BUF   9
+Alexis Lafreniere     NYR   9
+Jason Robertson       DAL   7
+Jesperi Kotkaniemi    CAR   5
+Brandon Saad          STL   4
+Patrick Kane          DET   4
+Juraj Slafkovsky      MTL   3
 
 Group 2
-Kiefer Sherwood       VAN  11
-Warren Foegele        LAK   8
-Connor Zary           CGY   7
-Michael Bunting       PIT   7
-Jeff Skinner          EDM   6
-Nicolas Roy           VGK   6
-Charlie McAvoy        BOS   5
-Danton Heinen         VAN   5
-Kevin Hayes           PIT   4
-Mattias Ekholm        EDM   3
-Cole Smith            NSH   2
-Martin Pospisil       CGY   2
-Michael Amadio        OTT   2
-Ridly Greig           OTT   2
-Alexandre Texier      STL   1
+Jack Roslovic         CAR  13
+Artturi Lehkonen      COL  10
+Jakob Chychrun        WSH   9
+Mats Zuccarello       MIN   6
+Jake Evans            MTL   5
+Eetu Luostarinen      FLA   4
+Max Pacioretty        TOR   4
+Miro Heiskanen        DAL   4
+Nicholas Robertson    TOR   4
+Isac Lundestrom       ANA   3
+Steven Lorentz        TOR   3
+Aaron Ekblad          FLA   2
+Brent Burns           CAR   2
+Christian Dvorak      MTL   2
+Robby Fabbri          ANA   2
 
 Group 3
-Corey Perry           EDM   6
-Darnell Nurse         EDM   3
-Alex Vlasic           CHI   2
-Ivan Provorov         CBJ   2
-Daniil Miromanov      CGY   1
-Johnathan Kovacevic   NJD   1
-Mason Lohrei          BOS   1
-Nicolas Hague         VGK   1
-Ryan Lomberg          CGY   1
-Ryan Suter            STL   1
-Tyler Kleven          OTT   1
-Tyler Myers           VAN   1
-Zach Whitecloud       VGK   1
-Travis Hamonic        OTT   0
-Vincent Desharnais    VAN   0
+Will Cuylle           NYR  11
+Ross Colton           COL  10
+Kevin Stenlund        UTA   5
+Brandon Duhaime       WSH   4
+Sam Steel             DAL   4
+Colin Blackwell       DAL   3
+Samuel Girard         COL   2
+Chris Tanev           TOR   1
+Christian Fischer     DET   1
+Conor Timmins         TOR   1
+Lane Hutson           MTL   1
+Mattias Samuelsson    BUF   1
+Ryan Lindgren         NYR   1
+David Savard          MTL   0
+Matt Benning          TOR   0
 ```
