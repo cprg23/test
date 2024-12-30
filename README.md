@@ -1,88 +1,67 @@
 ```
-['BOS',
- 'BUF',
- 'CAR',
- 'CBJ',
- 'COL',
- 'DAL',
- 'DET',
- 'MIN',
- 'NJD',
- 'NSH',
- 'SJS',
- 'STL',
- 'TOR',
- 'UTA',
- 'VGK']
- 
- 
-Counter({'TOR': 9,
-         'NSH': 4,
-         'CAR': 4,
-         'BOS': 4,
-         'DET': 4,
-         'NJD': 3,
-         'CBJ': 3,
-         'STL': 3,
-         'UTA': 2,
-         'BUF': 2,
-         'MIN': 2,
-         'SJS': 2,
-         'DAL': 1,
-         'VGK': 1,
-         'COL': 1})
+
+['FLA', 'NSH', 'NYR', 'SEA', 'SEA,NYR', 'UTA', 'WPG']
+
+
+'UTA': 10,
+'FLA': 9,
+'SEA': 8,
+'NYR': 7,
+'WPG': 6,
+'NSH': 4,
+'SEA,NYR': 1
 
 ```
 
 ```
 Group 1
-John Tavares          TOR  17
-Nico Hischier         NJD  17
-Clayton Keller        UTA  13
-Kirill Marchenko      CBJ  13
-Timo Meier            NJD  13
-Matthew Knies         TOR  11
-Mitch Marner          TOR  10
-Steven Stamkos        NSH  10
-Filip Forsberg        NSH   9
-Pavel Buchnevich      STL   9
-Seth Jarvis           CAR   9
-Dylan Cozens          BUF   7
+Sam Reinhart          FLA  22
+Artemi Panarin        NYR  16
+Dylan Guenther        UTA  16
+Gabriel Vilardi       WPG  15
+Jared McCann          SEA  12
+Jaden Schwartz        SEA  11
+Oliver Bjorkstrand    SEA  11
+Nino Niederreiter     WPG  10
+Vincent Trocheck      NYR  10
+Carter Verhaeghe      FLA   9
+Eeli Tolvanen         SEA   8
+Nick Schmaltz         UTA   6
 Tommy Novak           NSH   5
-Brandon Saad          STL   4
-J.T. Compher          DET   4
+Lawson Crouse         UTA   4
+Adam Fox              NYR   1
 
 Group 2
-Mathieu Olivier       CBJ   9
-Evgenii Dadonov       DAL   8
-Morgan Geekie         BOS   7
-Ryan McLeod           BUF   6
-Charlie McAvoy        BOS   5
-Max Pacioretty        TOR   5
-Joe Veleno            DET   4
-Jordan Staal          CAR   4
-Morgan Rielly         TOR   4
-Moritz Seider         DET   4
-Max Domi              TOR   3
-Kevin Labanc          CBJ   2
-Mathieu Joseph        STL   2
+Jack McBain           UTA   9
+Vladislav Namestnikov WPG   9
+Anton Lundell         FLA   8
+Logan Cooley          UTA   8
+Cole Perfetti         WPG   7
+Reilly Smith          NYR   7
+Filip Chytil          NYR   6
+Alexander Kerfoot     UTA   5
+Eetu Luostarinen      FLA   5
+Gustav Forsling       FLA   5
+Yanni Gourde          SEA   5
+Chandler Stephenson   SEA   3
+Andre Burakovsky      SEA   2
+Cole Smith            NSH   2
 Michael McCarron      NSH   2
-Brandon Carlo         BOS   1
 
 Group 3
-Frederick Gaudreau    MIN   6
-Shayne Gostisbehere   CAR   6
-Jared Spurgeon        MIN   4
-Brenden Dillon        NJD   2
-Juuso Valimaki        UTA   2
-Nikita Zadorov        BOS   2
-Tyler Motte           DET   2
-Brayden McNabb        VGK   1
-Jaccob Slavin         CAR   1
-Jan Rutta             SJS   1
-Oliver Ekman-Larsson  TOR   1
-Ty Dellandrea         SJS   1
-Calvin de Haan        COL   0
-Jake McCabe           TOR   0
-Simon Benoit          TOR   0
+Mikhail Sergachev     UTA   8
+Vince Dunn            SEA   7
+Kevin Stenlund        UTA   6
+A.J. Greer            FLA   4
+Michael Kesselring    UTA   4
+Dmitry Kulikov        FLA   3
+Mark Jankowski        NSH   3
+Adam Boqvist          FLA   2
+K‘Andre Miller        NYR   2
+Rasmus Kupari         WPG   2
+Logan Stanley         WPG   1
+Tomas Nosek           FLA   1
+Will Borgen           SEA,NYR   1
+Zac Jones             NYR   1
+Liam O'Brien          UTA   0
 ```
