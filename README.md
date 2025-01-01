@@ -1,15 +1,5 @@
 ```
 
-['FLA', 'NSH', 'NYR', 'SEA', 'SEA,NYR', 'UTA', 'WPG']
-
-
-'UTA': 10,
-'FLA': 9,
-'SEA': 8,
-'NYR': 7,
-'WPG': 6,
-'NSH': 4,
-'SEA,NYR': 1
 
 ```
 
