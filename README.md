@@ -1,80 +1,84 @@
 ```
 
-['ANA',
- 'CHI',
+['CAR',
+ 'CBJ',
+ 'CGY',
  'EDM',
- 'FLA',
  'MTL',
+ 'NJD',
  'NSH',
- 'NSH,MTL',
- 'OTT',
- 'PIT',
- 'STL',
- 'VAN']
+ 'NYR',
+ 'TBL',
+ 'TOR',
+ 'UTA',
+ 'WPG',
+ 'WSH']
  
- 
+'TOR': 9,
+'WPG': 6,
+'CGY': 6,
 'EDM': 6,
- 'OTT': 6,
- 'VAN': 6,
- 'MTL': 5,
- 'STL': 5,
- 'PIT': 4,
- 'ANA': 3,
- 'FLA': 3,
- 'CHI': 3,
- 'NSH,MTL': 1,
- 'NSH': 1
-
+'MTL': 6,
+'NJD': 2,
+'NYR': 2,
+'UTA': 2,
+'WSH': 2,
+'TBL': 1,
+'NSH': 1,
+'CBJ': 1,
+'CAR': 1
 
 ```
 
 ```
 Group 1
-Cole Caufield         MTL  19
-Bryan Rust            PIT  15
-Connor McDavid        EDM  15
-Josh Norris           OTT  14
-Troy Terry            ANA  13
-Tim Stutzle           OTT  12
-Conor Garland         VAN  10
-Jake Neighbours       STL  10
-Nick Foligno          CHI   8
-Evan Bouchard         EDM   7
-Ryan Strome           ANA   7
-Brayden Schenn        STL   6
+Jake Guentzel         TBL  20
+John Tavares          TOR  19
+Gabriel Vilardi       WPG  18
+Jonathan Huberdeau    CGY  16
+Mitch Marner          TOR  13
+Zach Hyman            EDM  13
+Chris Kreider         NYR  12
+Matthew Knies         TOR  11
+Nino Niederreiter     WPG  10
+Blake Coleman         CGY   9
+Ryan Nugent-Hopkins   EDM   9
+Ryan O'Reilly         NSH   9
+Adam Fantilli         CBJ   7
+Joel Armia            MTL   7
 Juraj Slafkovsky      MTL   4
-Philipp Kurashev      CHI   3
-Nils Hoglander        VAN   2
 
 Group 2
-Michael Bunting       PIT  11
-Pius Suter            VAN  11
-Anthony Beauvillier   PIT   9
-Anton Lundell         FLA   9
-Josh Anderson         MTL   6
-Ridly Greig           OTT   6
-Shane Pinto           OTT   6
-Cutter Gauthier       ANA   5
-Danton Heinen         VAN   5
-Gustav Forsling       FLA   5
-Kevin Hayes           PIT   4
-Viktor Arvidsson      EDM   4
-Christian Dvorak      MTL   3
+Stefan Noesen         NJD  16
+Connor Zary           CGY  10
+Jack McBain           UTA  10
+Jake Evans            MTL  10
+Cole Perfetti         WPG   7
+Alex Iafallo          WPG   6
+Connor Brown          EDM   6
+Kirby Dach            MTL   5
+Morgan Rielly         TOR   4
+Steven Lorentz        TOR   4
+Max Domi              TOR   3
+Tomas Tatar           NJD   3
+Braden Schneider      NYR   2
+Andrei Kuzmenko       CGY   1
 Mattias Janmark       EDM   1
 
 Group 3
 Brett Kulak           EDM   5
-Teddy Blueger         VAN   5
-Noah Gregor           OTT   4
-Darnell Nurse         EDM   3
-Justin Faulk          STL   2
-Radek Faksa           STL   2
-Alexandre Carrier     NSH,MTL   1
+Brandon Duhaime       WSH   4
+Michael Kesselring    UTA   4
+Colin Miller          WPG   2
+Jaccob Slavin         CAR   2
+Lane Hutson           MTL   2
 Arber Xhekaj          MTL   1
-Connor Murphy         CHI   1
-Ryan Suter            STL   1
-Tomas Nosek           FLA   1
-Jeremy Lauzon         NSH   0
-Travis Hamonic        OTT   0
-Vincent Desharnais    VAN   0
+Derek Ryan            EDM   1
+Kevin Bahl            CGY   1
+Logan Stanley         WPG   1
+Adam Klapka           CGY   0
+Hendrix Lapierre      WSH   0
+Jake McCabe           TOR   0
+Ryan Reaves           TOR   0
+Simon Benoit          TOR   0
 ```
