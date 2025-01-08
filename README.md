@@ -1,84 +1,68 @@
 ```
 
-['CAR',
- 'CBJ',
- 'CGY',
- 'EDM',
- 'MTL',
- 'NJD',
- 'NSH',
- 'NYR',
- 'TBL',
- 'TOR',
- 'UTA',
- 'WPG',
- 'WSH']
- 
-'TOR': 9,
-'WPG': 6,
+['CGY', 'CHI', 'COL', 'FLA', 'LAK', 'UTA', 'VAN', 'WSH']
+
+
+'FLA': 7,
+'COL': 6,
+'LAK': 6,
+'WSH': 6,
 'CGY': 6,
-'EDM': 6,
-'MTL': 6,
-'NJD': 2,
-'NYR': 2,
-'UTA': 2,
-'WSH': 2,
-'TBL': 1,
-'NSH': 1,
-'CBJ': 1,
-'CAR': 1
+'VAN': 6,
+'UTA': 4,
+'CHI': 4
 
 ```
 
 ```
 Group 1
-Jake Guentzel         TBL  20
-John Tavares          TOR  19
-Gabriel Vilardi       WPG  18
-Jonathan Huberdeau    CGY  16
-Mitch Marner          TOR  13
-Zach Hyman            EDM  13
-Chris Kreider         NYR  12
-Matthew Knies         TOR  11
-Nino Niederreiter     WPG  10
-Blake Coleman         CGY   9
-Ryan Nugent-Hopkins   EDM   9
-Ryan O'Reilly         NSH   9
-Adam Fantilli         CBJ   7
-Joel Armia            MTL   7
-Juraj Slafkovsky      MTL   4
+Mikko Rantanen        COL  24
+Adrian Kempe          LAK  19
+Connor McMichael      WSH  17
+Jonathan Huberdeau    CGY  17
+Dylan Guenther        UTA  16
+Clayton Keller        UTA  14
+Nathan MacKinnon      COL  14
+Aleksander Barkov     FLA  11
+Valeri Nichushkin     COL  11
+Carter Verhaeghe      FLA  10
+Casey Mittelstadt     COL   8
+J.T. Miller           VAN   8
+Mikael Backlund       CGY   8
+Teuvo Teravainen      CHI   7
+Nils Hoglander        VAN   2
 
 Group 2
-Stefan Noesen         NJD  16
+Brock Boeser          VAN  14
+Alex Laferriere       LAK  13
+Jakob Chychrun        WSH  11
+Pius Suter            VAN  11
+Ryan Donato           CHI  11
 Connor Zary           CGY  10
-Jack McBain           UTA  10
-Jake Evans            MTL  10
-Cole Perfetti         WPG   7
-Alex Iafallo          WPG   6
-Connor Brown          EDM   6
-Kirby Dach            MTL   5
-Morgan Rielly         TOR   4
-Steven Lorentz        TOR   4
-Max Domi              TOR   3
-Tomas Tatar           NJD   3
-Braden Schneider      NYR   2
-Andrei Kuzmenko       CGY   1
-Mattias Janmark       EDM   1
+Logan Cooley          UTA  10
+Nic Dowd              WSH  10
+Evan Rodrigues        FLA   7
+Jakub Vrana           WSH   7
+Gustav Forsling       FLA   6
+Matias Maccelli       UTA   5
+Alex Turcotte         LAK   4
+Taylor Raddysh        WSH   4
+Martin Pospisil       CGY   2
 
 Group 3
-Brett Kulak           EDM   5
-Brandon Duhaime       WSH   4
-Michael Kesselring    UTA   4
-Colin Miller          WPG   2
-Jaccob Slavin         CAR   2
-Lane Hutson           MTL   2
-Arber Xhekaj          MTL   1
-Derek Ryan            EDM   1
-Kevin Bahl            CGY   1
-Logan Stanley         WPG   1
-Adam Klapka           CGY   0
-Hendrix Lapierre      WSH   0
-Jake McCabe           TOR   0
-Ryan Reaves           TOR   0
-Simon Benoit          TOR   0
+Jesper Boqvist        FLA   7
+Mikey Anderson        LAK   5
+A.J. Greer            FLA   4
+Logan O'Connor        COL   4
+Parker Kelly          COL   3
+Aatu Raty             VAN   2
+Adam Boqvist          FLA   2
+Jordan Spence         LAK   2
+TJ Brodie             CHI   2
+Tyler Myers           VAN   2
+Jake Bean             CGY   1
+Nolan Allan           CHI   1
+Dylan Mcllrath        WSH   0
+Kyle Burroughs        LAK   0
+Samuel Honzek         CGY   0
 ```

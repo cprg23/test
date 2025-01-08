@@ -1,51 +1,54 @@
 ```
+
 Group 1
-1 Cole Caufield         MTL  19
-0 Bryan Rust            PIT  15
-0 Connor McDavid        EDM  15
-0 Josh Norris           OTT  14
-0 Troy Terry            ANA  13
+0 Leon Draisaitl        EDM  29
+0 Mark Scheifele        WPG  23
+1 John Tavares          TOR  19
+1 Gabriel Vilardi       WPG  18
+0 Kirill Marchenko      CBJ  17
+1 Jonathan Huberdeau    CGY  16
+1 Matthew Knies         TOR  15
+0 Mitch Marner          TOR  14
+0 Troy Terry            ANA  14
+0 Drake Batherson       OTT  13
 0 Tim Stutzle           OTT  12
-0 Conor Garland         VAN  10
-0 Jake Neighbours       STL  10
-2 Nick Foligno          CHI   8
-0 Evan Bouchard         EDM   7
-0 Ryan Strome           ANA   7
-1 Brayden Schenn        STL   6
-0 Juraj Slafkovsky      MTL   4
-0 Philipp Kurashev      CHI   3
-0 Nils Hoglander        VAN   2
+0 Jack Eichel           VGK  11
+0 Ryan Nugent-Hopkins   EDM  10
+1 Filip Forsberg        NSH   9
+0 Mikael Backlund       CGY   8
 
 Group 2
-0 Michael Bunting       PIT  11
-0 Pius Suter            VAN  11
-0 Anthony Beauvillier   PIT   9
-0 Anton Lundell         FLA   9
-0 Josh Anderson         MTL   6
-0 Ridly Greig           OTT   6
+1 Michael Bunting       PIT  12
+0 Connor Zary           CGY  10
+0 Colton Parayko        STL   7
+0 Mason Appleton        WPG   6
 0 Shane Pinto           OTT   6
-0 Cutter Gauthier       ANA   5
-0 Danton Heinen         VAN   5
-1 Gustav Forsling       FLA   5
-0 Kevin Hayes           PIT   4
-0 Viktor Arvidsson      EDM   4
-0 Christian Dvorak      MTL   3
+1 Josh Morrissey        WPG   4
+1 Marcus Johansson      MIN   4
+0 Steven Lorentz        TOR   4
+1 Viktor Arvidsson      EDM   4
+0 Max Domi              TOR   3
+0 Jake Sanderson        OTT   2
+0 Kevin Labanc          CBJ   2
+0 Martin Pospisil       CGY   2
+0 Pontus Holmberg       TOR   2
 0 Mattias Janmark       EDM   1
 
 Group 3
-0 Brett Kulak           EDM   5
-0 Teddy Blueger         VAN   5
+0 Cole Koepke           BOS   7
+0 Neal Pionk            WPG   5
+0 Cam Fowler            ANA,STL   4
 0 Noah Gregor           OTT   4
-1 Darnell Nurse         EDM   3
-0 Justin Faulk          STL   2
-0 Radek Faksa           STL   2
-0 Alexandre Carrier     NSH,MTL   1
-0 Arber Xhekaj          MTL   1
-0 Connor Murphy         CHI   1
-0 Ryan Suter            STL   1
-0 Tomas Nosek           FLA   1
-0 Jeremy Lauzon         NSH   0
-0 Travis Hamonic        OTT   0
-0 Vincent Desharnais    VAN   0
-```
+0 Vasily Podkolzin      EDM   4
+0 William Carrier       CAR   4
+0 Brayden Pachal        CGY   2
+0 Sean Walker           CAR   2
+1 Thomas Chabot         OTT   2
+0 Derek Ryan            EDM   1
+0 Dylan DeMelo          WPG   1
+0 Jake McCabe           TOR   1
+0 Ryan Reaves           TOR   0
+0 Samuel Honzek         CGY   0
+0 Simon Benoit          TOR   0
 
+```
