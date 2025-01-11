@@ -1,63 +1,54 @@
 
 ```
 Group 1
-
+Mark Scheifele        WPG 24
+William Nylander      TOR 24
+Cole Caufield         MTL 23
+John Tavares          TOR 20
 Gabriel Vilardi       WPG 19
-Jake DeBrusk          VAN 17
-Lucas Raymond         DET 16
-Tyler Bertuzzi        CHI 14
-Sebastian Aho         CAR 13
-Nick Suzuki           MTL 12
-Connor Bedard         CHI 11
-Nino Niederreiter     WPG 11
-Andrew Mangiapane     WSH 09
-Patrick Kane          DET 09
-Quinton Byfield       LAK 09
+Connor McDavid        EDM 16
+Matthew Knies         TOR 16
+Nazem Kadri           CGY 15
+Josh Norris           OTT 14
+Nick Suzuki           MTL 13
+Tim Stützle           OTT 12
 J.T. Miller           VAN 08
-Taylor Hall           CHI 08
-Joel Armia            MTL 07
-Vladimir Tarasenko    DET 04
-
+Mikael Backlund       CGY 08
+Evan Bouchard         EDM 07
+Nils Hoglander        VAN 02
 
 Group 2
-
 Brock Boeser          VAN 14
-Alex Laferriere       LAK 13
 Kiefer Sherwood       VAN 12
-Warren Foegele        LAK 11
+Adam Lowry            WPG 10
 Jake Evans            MTL 10
-Alex Iafallo          WPG 06
-Kirby Dach            MTL 06
-Mason Appleton        WPG 06
-Michael Rasmussen     DET 06
-Joe Veleno            DET 05
-Alex Turcotte         LAK 04
-Brent Burns           CAR 04
-Moritz Seider         DET 04
-Nick Bjugstad         UTA 04
-John Carlson          WSH 03
-
+Vladislav Namestnikov WPG 09
+Alex Newhook          MTL 07
+Jeff Skinner          EDM 07
+Mattias Ekholm        EDM 06
+Ridly Greig           OTT 06
+Morgan Rielly         TOR 05
+Max Domi              TOR 03
+David Kampf           TOR 02
+Martin Pospisil       CGY 02
+Zack MacEwen          OTT 02
+Andrei Kuzmenko       CGY 01
 
 Group 3
-
-Shayne Gostisbehere   CAR 06
-Nikolai Kovalenko     COL,SJS 05
+Nikolaj Ehlers        WPG 12
 Teddy Blueger         VAN 05
-Rasmus Sandin         WSH 04
 Lane Hutson           MTL 03
-Mario Ferraro         SJS 03
-Rasmus Kupari         WPG 03
-Dakota Joshua         VAN 02
-Tyler Motte           DET 02
+Thomas Chabot         OTT 03
+Troy Stecher          EDM 03
+Oliver Ekman-Larsson  TOR 02
 Alexandre Carrier     NSH,MTL 01
-Connor Murphy         CHI 01
-Ian Cole              UTA 01
+Carson Soucy          VAN 01
+Derek Ryan            EDM 01
+Jake McCabe           TOR 01
 Logan Stanley         WPG 01
-Kyle Burroughs        LAK 00
-Trevor van Riemsdyk   WSH 00
-
-
-
-
+Ryan Lomberg          CGY 01
+Tyler Kleven          OTT 01
+Adam Klapka           CGY 00
+Matthew Benning       SJS 00
 
 ```
