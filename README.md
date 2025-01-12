@@ -13,7 +13,6 @@ Tomas Hertl           VGK 11
 Claude Giroux         OTT 09
 Jesperi Kotkaniemi    CAR 06
 Mason McTavish        ANA 06
-Mason McTavish        ANA 06
 Ryan Hartman          MIN 05
 Logan Stankoven       DAL 04
 
