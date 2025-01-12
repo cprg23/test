@@ -10,6 +10,7 @@ Andrei Svechnikov     CAR 14
 Troy Terry            ANA 14
 Mark Stone            VGK 12
 Tomas Hertl           VGK 11
+Nick Paul
 Claude Giroux         OTT 09
 Jesperi Kotkaniemi    CAR 06
 Mason McTavish        ANA 06
