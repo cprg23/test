@@ -1,54 +1,58 @@
 
 ```
 Group 1
-Jake Guentzel         TBL 21
-Rickard Rakell        PIT 21
-Brady Tkachuk         OTT 18
-Lucas Raymond         DET 17
-Martin Necas          CAR 15
-Andrei Svechnikov     CAR 14
-Troy Terry            ANA 14
-Mark Stone            VGK 12
-Tomas Hertl           VGK 11
-Nick Paul
-Claude Giroux         OTT 09
-Jesperi Kotkaniemi    CAR 06
-Mason McTavish        ANA 06
-Ryan Hartman          MIN 05
-Logan Stankoven       DAL 04
+Adrian Kempe          LAK 20
+Travis Konecny        PHI 20
+Nazem Kadri           CGY 15
+Matthew Tkachuk       FLA 14
+Tyler Bertuzzi        CHI 14
+Sam Bennett           FLA 13
+Anze Kopitar          LAK 12
+Owen Tippett          PHI 12
+Aleksander Barkov     FLA 11
+Evan Bouchard         EDM 07
+Sean Couturier        PHI 07
+Adam Henrique         EDM 06
+Joel Farabee          PHI 06
+MacKenzie Weegar      CGY 05
+Philipp Kurashev      CHI 03
+
 
 Group 2
-Brett Howden          VGK 15
-Pavel Dorofeyev       VGK 14
-Michael Bunting       PIT 13
-Evgenii Dadonov       DAL 11
-Mats Zuccarello       MIN 11
-Anthony Beauvillier   PIT 09
-Jordan Staal          CAR 09
-Keegan Kolesar        VGK 09
-Brandon Montour       SEA 08
-Ridly Greig           OTT 06
-Thomas Harley         DAL 06
-Marcus Johansson      MIN 05
-Jonas Brodin          MIN 04
-Moritz Seider         DET 04
-Jake Sanderson        OTT 02
+Alex Laferriere       LAK 13
+Matvei Michkov        PHI 13
+Ryan Donato           CHI 13
+Warren Foegele        LAK 11
+Morgan Frost          PHI 09
+Scott Laughton        PHI 09
+Evan Rodrigues        FLA 08
+Jason Dickinson       CHI 07
+Connor Brown          EDM 06
+Gustav Forsling       FLA 06
+Rasmus Andersson      CGY 06
+Kasperi Kapanen       STL,EDM 05
+Bobby Brink           PHI 04
+Ryan Poehling         PHI 04
+Martin Pospisil       CGY 02
+
 
 Group 3
-Tanner Pearson        VGK 08
-Vince Dunn            SEA 08
-Frederick Gaudreau    MIN 07
-Noah Gregor           OTT 04
-Shea Theodore         VGK 04
-Tye Kartye            SEA 03
-Luke Glendening       TBL 02
-Christian Fischer     DET 01
-Darren Raddysh        TBL 01
-Matt Nieto            PIT 01
-Radko Gudas           ANA 01
-Brian Dumoulin        ANA 00
-Erik Cernak           TBL 00
-Ilya Lyubushkin       DAL 00
-Travis Hamonic        OTT 00
+Jesper Boqvist        FLA 09
+Corey Perry           EDM 07
+Mikey Anderson        LAK 05
+A.J. Greer            FLA 04
+Joel Edmundson        LAK 04
+Adam Boqvist          FLA 02
+Alex Vlasic           CHI 02
+Brayden Pachal        CGY 02
+Jamie Drysdale        PHI 02
+Derek Ryan            EDM 01
+Erik Johnson          PHI 01
+Rasmus Ristolainen    PHI 01
+Ryan Lomberg          CGY 01
+Jett Luchanko         PHI 00
+Kyle Burroughs        LAK 00
+
+
 
 ```
