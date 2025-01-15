@@ -121,56 +121,56 @@ NYR
 
 ```
 Group 1
-Cole Caufield         MTL 24
-John Tavares          TOR 20
-Gabriel Vilardi       WPG 19
-Jonathan Huberdeau    CGY 18
-Matthew Knies         TOR 16
-Drake Batherson       OTT 14
-Mitch Marner          TOR 14
-Tim Stützle           OTT 14
-Chris Kreider         NYR 13
-Nick Suzuki           MTL 13
-Oliver Bjorkstrand    SEA 13
-Nino Niederreiter     WPG 12
-Blake Coleman         CGY 09
-J.T. Miller           VAN 08
-Nils Hoglander        VAN 03
+Tage Thompson         BUF 19
+Marco Rossi           MIN 16
+Matt Boldy            MIN 16
+Andrei Svechnikov     CAR 15
+Martin Necas          CAR 15
+Alex Tuch             BUF 14
+Sebastian Aho         CAR 13
+Seth Jarvis           CAR 13
+Ryan Nugent-Hopkins   EDM 11
+JJ Peterka            BUF 10
+Dylan Cozens          BUF 09
+Adam Henrique         EDM 06
+Jesperi Kotkaniemi    CAR 06
+Rasmus Dahlin         BUF 06
+Ryan Hartman          MIN 06
 
 
 Group 2
-Bobby McMann          TOR 12
-Pius Suter            VAN 11
-Jake Evans            MTL 10
-Alex Newhook          MTL 07
-Cole Perfetti         WPG 07
-Victor Hedman         TBL 07
-Alex Iafallo          WPG 06
-Rasmus Andersson      CGY 06
-Ridly Greig           OTT 06
-Charlie McAvoy        BOS 05
-Danton Heinen         VAN 05
-Steven Lorentz        TOR 04
-David Kampf           TOR 02
-Jake Sanderson        OTT 02
-Martin Pospisil       CGY 02
+Jack Roslovic         CAR 17
+Jason Zucker          BUF 15
+Mats Zuccarello       MIN 11
+Jordan Staal          CAR 09
+Jordan Martinook      CAR 08
+Ryan McLeod           BUF 07
+Connor Brown          EDM 06
+Marcus Foligno        MIN 06
+Bowen Byram           BUF 05
+Kasperi Kapanen       STL,EDM 05
+Marcus Johansson      MIN 05
+Owen Power            BUF 05
+Viktor Arvidsson      EDM 05
+Brent Burns           CAR 04
+Jonas Brodin          MIN 04
 
 
 Group 3
-Neal Pionk            WPG 06
-Nick Cousins          OTT 05
-Teddy Blueger         VAN 05
-Michael Kesselring    UTA 04
-Sam Steel             DAL 04
-Lane Hutson           MTL 03
-Jake Bean             CGY 02
-Kevin Bahl            CGY 02
-Nick Jensen           OTT 02
-Conor Timmins         TOR 01
-David Savard          MTL 01
-Logan Stanley         WPG 01
-Matthew Benning       SJS 00
-Ryan Reaves           TOR 00
-Vincent Desharnais    VAN 00
+Jack Quinn            BUF 08
+Zach Benson           BUF 07
+Shayne Gostisbehere   CAR 06
+Brock Faber           MIN 05
+Beck Malenstyn        BUF 04
+Darnell Nurse         EDM 04
+Dmitry Orlov          CAR 04
+Jalen Chatfield       CAR 04
+Declan Chisholm       MIN 02
+Jaccob Slavin         CAR 02
+Mattias Samuelsson    BUF 02
+Sam Lafferty          BUF 02
+Sean Walker           CAR 02
+Derek Ryan            EDM 01
+Travis Dermott        EDM,MIN 00
 
 ```
