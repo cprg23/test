@@ -1,31 +1,121 @@
 ```
 Goal Scorers
 
-FLA
-2 Sam Reinhart
-1 Uvis Balinskis
+TOR
+1 Auston Matthews
 
-
-EDM
-1 Connor McDavid
-
-
-CHI
-1 Connor Bedard
-1 Louis Crevier
-
-
-PHI
-1 Morgan Frost
-2 Noah Cates
-1 Garnet Hathaway
-
+VAN
+1 Nils Hoglander
 
 CGY
-1 Mikael Backlund
-1 Yegor Sharangovich
-2 Jakob Pelletier
-1 Jake Bean
+1 Kevin Bahl
+
+WPG
+1 Mark Scheifele
+3 Kyle Connor
+1 Nino Niederreiter
+1 Neal Pionk
+
+MTL
+1 Cole Caufield
+1 Patrik Laine
+2 Kirby Dach
+1 Mike Matheson
+
+BOS
+1 David Pastrnak
+1 Brad Marchand
+1 Pavel Zacha
+1 Trent Frederic
+1 Andrew Peeke
+1 Parker Wotherspoon
+
+NJD
+1 Nico Hischier
+
+DET
+1 Lucas Raymond
+2 Vladimir Tarasenko
+
+DAL
+1 Matt Duchene
+2 Logan Stankoven
+1 Mavrik Bourque
+
+PIT
+1 Bryan Rust
+
+NSH,PIT
+1 Philip Tomasino
+
+VGK
+3 Pavel Dorofeyev
+
+SJS
+1 Tyler Toffoli
+1 Mikael Granlund
+1 William Eklund
+1 Nico Sturm
+1 Mario Ferraro
+1 Jan Rutta
+
+COL
+1 Artturi Lehkonen
+1 Devon Toews
+1 Parker Kelly
+
+CBJ
+2 Zach Werenski
+
+OTT
+1 Adam Gaudette
+1 Artem Zub
+
+PHI
+1 Owen Tippett
+1 Bobby Brink
+
+NSH
+1 Ryan O'Reilly
+2 Steven Stamkos
+1 Filip Forsberg
+
+MTL,NSH
+1 Justin Barron
+
+UTA
+1 Logan Cooley
+1 Nick Bjugstad
+1 Josh Doan
+
+SEA
+1 Eeli Tolvanen
+1 Chandler Stephenson
+1 Jamie Oleksiak
+
+NYR,SEA
+1 Kaapo Kakko
+
+FLA
+1 Jesper Boqvist
+
+STL
+1 Colton Parayko
+1 Radek Faksa
+
+TBL
+1 Victor Hedman
+1 Conor Geekie
+
+WSH
+1 Brandon Duhaime
+1 John Carlson
+1 Ethen Frank
+
+NYR
+1 Sam Carrick
+1 Adam Edstrom
+
 ```
 
 
