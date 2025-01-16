@@ -1,176 +1,64 @@
 ```
-Goal Scorers
 
-TOR
-1 Auston Matthews
-
-VAN
-1 Nils Hoglander
-
-CGY
-1 Kevin Bahl
-
-WPG
-1 Mark Scheifele
-3 Kyle Connor
-1 Nino Niederreiter
-1 Neal Pionk
-
-MTL
-1 Cole Caufield
-1 Patrik Laine
-2 Kirby Dach
-1 Mike Matheson
-
-BOS
-1 David Pastrnak
-1 Brad Marchand
-1 Pavel Zacha
-1 Trent Frederic
-1 Andrew Peeke
-1 Parker Wotherspoon
-
-NJD
-1 Nico Hischier
-
-DET
-1 Lucas Raymond
-2 Vladimir Tarasenko
-
-DAL
-1 Matt Duchene
-2 Logan Stankoven
-1 Mavrik Bourque
-
-PIT
-1 Bryan Rust
-
-NSH,PIT
-1 Philip Tomasino
-
-VGK
-3 Pavel Dorofeyev
-
-SJS
-1 Tyler Toffoli
-1 Mikael Granlund
-1 William Eklund
-1 Nico Sturm
-1 Mario Ferraro
-1 Jan Rutta
-
-COL
-1 Artturi Lehkonen
-1 Devon Toews
-1 Parker Kelly
-
-CBJ
-2 Zach Werenski
-
-OTT
-1 Adam Gaudette
-1 Artem Zub
-
-PHI
-1 Owen Tippett
-1 Bobby Brink
-
-NSH
-1 Ryan O'Reilly
-2 Steven Stamkos
-1 Filip Forsberg
-
-MTL,NSH
-1 Justin Barron
-
-UTA
-1 Logan Cooley
-1 Nick Bjugstad
-1 Josh Doan
-
-SEA
-1 Eeli Tolvanen
-1 Chandler Stephenson
-1 Jamie Oleksiak
-
-NYR,SEA
-1 Kaapo Kakko
-
-FLA
-1 Jesper Boqvist
-
-STL
-1 Colton Parayko
-1 Radek Faksa
-
-TBL
-1 Victor Hedman
-1 Conor Geekie
-
-WSH
-1 Brandon Duhaime
-1 John Carlson
-1 Ethen Frank
-
-NYR
-1 Sam Carrick
-1 Adam Edstrom
 
 ```
 
 
 ```
 Group 1
-Tage Thompson         BUF 19
-Marco Rossi           MIN 16
-Matt Boldy            MIN 16
-Andrei Svechnikov     CAR 15
-Martin Necas          CAR 15
-Alex Tuch             BUF 14
-Sebastian Aho         CAR 13
-Seth Jarvis           CAR 13
-Ryan Nugent-Hopkins   EDM 11
-JJ Peterka            BUF 10
-Dylan Cozens          BUF 09
+Kyle Connor           WPG 26
+Mark Scheifele        WPG 26
+Brady Tkachuk         OTT 18
+Matthew Knies         TOR 16
+Auston Matthews       TOR 15
+Zach Hyman            EDM 15
+Mitch Marner          TOR 14
+Tim Stützle           OTT 14
+Nick Suzuki           MTL 13
+Blake Coleman         CGY 09
+J.T. Miller           VAN 08
+Joel Armia            MTL 07
+Yegor Sharangovich    CGY 07
 Adam Henrique         EDM 06
-Jesperi Kotkaniemi    CAR 06
-Rasmus Dahlin         BUF 06
-Ryan Hartman          MIN 06
+Nils Hoglander        VAN 03
 
 
 Group 2
-Jack Roslovic         CAR 17
-Jason Zucker          BUF 15
-Mats Zuccarello       MIN 11
-Jordan Staal          CAR 09
-Jordan Martinook      CAR 08
-Ryan McLeod           BUF 07
-Connor Brown          EDM 06
-Marcus Foligno        MIN 06
-Bowen Byram           BUF 05
-Kasperi Kapanen       STL,EDM 05
-Marcus Johansson      MIN 05
-Owen Power            BUF 05
-Viktor Arvidsson      EDM 05
-Brent Burns           CAR 04
-Jonas Brodin          MIN 04
+Kiefer Sherwood       VAN 13
+Pius Suter            VAN 11
+Jake Evans            MTL 10
+Alex Newhook          MTL 07
+Cole Perfetti         WPG 07
+Jeff Skinner          EDM 07
+Alex Iafallo          WPG 06
+Rasmus Andersson      CGY 06
+Max Pacioretty        TOR 05
+Steven Lorentz        TOR 04
+Jake Sanderson        OTT 02
+Martin Pospisil       CGY 02
+Pontus Holmberg       TOR 02
+Zack MacEwen          OTT 02
+Mattias Janmark       EDM 01
 
 
 Group 3
-Jack Quinn            BUF 08
-Zach Benson           BUF 07
-Shayne Gostisbehere   CAR 06
-Brock Faber           MIN 05
-Beck Malenstyn        BUF 04
+Corey Perry           EDM 07
+Neal Pionk            WPG 06
 Darnell Nurse         EDM 04
-Dmitry Orlov          CAR 04
-Jalen Chatfield       CAR 04
-Declan Chisholm       MIN 02
-Jaccob Slavin         CAR 02
-Mattias Samuelsson    BUF 02
-Sam Lafferty          BUF 02
-Sean Walker           CAR 02
-Derek Ryan            EDM 01
-Travis Dermott        EDM,MIN 00
+Aatu Raty             VAN 02
+Kevin Bahl            CGY 02
+Tyler Kleven          OTT 02
+Tyler Myers           VAN 02
+Alexandre Carrier     NSH,MTL 01
+Artem Zub             OTT 01
+Chris Tanev           TOR 01
+David Savard          MTL 01
+Logan Stanley         WPG 01
+Matthew Benning       SJS 00
+Ryan Reaves           TOR 00
+Samuel Honzek         CGY 00
+
+
+
 
 ```
