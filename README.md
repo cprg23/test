@@ -5,7 +5,7 @@ Group 1
   Martin Necas          CAR 16
   Ivan Barbashev        VGK 15
   Alex Tuch             BUF 14
-1 Seth Jarvis           CAR 15
+2 Seth Jarvis           CAR 15
   Mark Stone            VGK 12
 1 Tomas Hertl           VGK 13
   Jack Eichel           VGK 11
