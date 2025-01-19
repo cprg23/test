@@ -1,113 +1,116 @@
 ```
 Group 1
-1 Rickard Rakell        PIT 23
-1 Bryan Rust            PIT 18
-  Martin Necas          CAR 16
-  Ivan Barbashev        VGK 15
-  Alex Tuch             BUF 14
-2 Seth Jarvis           CAR 15
-  Mark Stone            VGK 12
-1 Tomas Hertl           VGK 13
-  Jack Eichel           VGK 11
-  Dylan Cozens          BUF 10
-  JJ Peterka            BUF 10
-  Evgeni Malkin         PIT 08
-  William Karlsson      VGK 07
-  Jesperi Kotkaniemi    CAR 06
-  Rasmus Dahlin         BUF 06
+  Kyle Connor           WPG 26
+1 William Nylander      TOR 27
+  Cole Caufield         MTL 24
+  Connor McDavid        EDM 20
+1 Auston Matthews       TOR 18
+  Jake DeBrusk          VAN 17
+  Nazem Kadri           CGY 15
+  Mitch Marner          TOR 14
+  Nino Niederreiter     WPG 12
+  Conor Garland         VAN 11
+1 Blake Coleman         CGY 10
+1 Nick Schmaltz         UTA 09
+  Adam Henrique         EDM 06
+  Juraj Slafkovsky      MTL 05
+  Adam Fox              NYR 02
 
 
 Group 2
-  Jack Roslovic         CAR 17
-  Jason Zucker          BUF 15
-  Michael Bunting       PIT 13
-  Keegan Kolesar        VGK 10
-  Ryan McLeod           BUF 10
-  Jordan Staal          CAR 09
-  Victor Olofsson       VGK 09
-  Kevin Hayes           PIT 07
-  Drew O'Connor         PIT 06
-  Nicolas Roy           VGK 06
-  Noah Hanifin          VGK 06
-  Bowen Byram           BUF 05
-  Brent Burns           CAR 04
-  Erik Karlsson         PIT 04
-- Jesse Puljujarvi      PIT 03
+  Pius Suter            VAN 11
+- Jakub Vrana           WSH 07
+  Connor Brown          EDM 06
+  Rasmus Andersson      CGY 06
+1 Danton Heinen         VAN 06
+  Josh Morrissey        WPG 05
+  Max Pacioretty        TOR 05
+  Morgan Barron         WPG 04
+  Christian Dvorak      MTL 03
+  Mike Matheson         MTL 03
+1 David Kampf           TOR 03
+  Michael McCarron      NSH 02
+  Pontus Holmberg       TOR 02
+1 Andrei Kuzmenko       CGY 02
+  Mattias Janmark       EDM 01
 
 
 Group 3
-  Blake Lizotte         PIT 08
-  Tanner Pearson        VGK 08
-1 Zach Benson           BUF 08
-  Shayne Gostisbehere   CAR 06
-  Beck Malenstyn        BUF 04
-1 Shea Theodore         VGK 05
-- Alexander Holtz       VGK 03
-  Nicolas Hague         VGK 03
-  Marcus Pettersson     PIT 02
-  Mattias Samuelsson    BUF 02
-  Sean Walker           CAR 02
-  Henri Jokiharju       BUF 01
-  Matt Grzelcyk         PIT 01
-- Matt Nieto            PIT 01
-  Ryan Graves           PIT 00
+  Nikolaj Ehlers        WPG 14
+  Corey Perry           EDM 07
+  Kaiden Guhle          MTL 03
+  Lane Hutson           MTL 03
+  Jake Bean             CGY 02
+  Kevin Bahl            CGY 02
+  Carson Soucy          VAN 01
+  Chris Tanev           TOR 01
+- Derek Ryan            EDM 01
+  Logan Stanley         WPG 01
+  Ryan Suter            STL 01
+  Derek Forbort         VAN 00
+- Erik Cernak           TBL 00
+- Matthew Benning       SJS 00
+- Simon Benoit          TOR 00
 
-
+'-' did not play
 ```
 
 
 ```
 Group 1
-Mark Scheifele        WPG 27
-Kyle Connor           WPG 26
-William Nylander      TOR 26
-Jonathan Huberdeau    CGY 18
-Matthew Knies         TOR 16
-Josh Norris           OTT 15
-Drake Batherson       OTT 14
-Mitch Marner          TOR 14
-Ryan Nugent-Hopkins   EDM 12
-Brendan Gallagher     MTL 10
-Mikael Backlund       CGY 09
-Evan Bouchard         EDM 08
-J.T. Miller           VAN 08
-Juraj Slafkovsky      MTL 05
-Nils Hoglander        VAN 03
+Cole Caufield         MTL 24
+Dylan Larkin          DET 20
+Alex DeBrincat        DET 19
+Lucas Raymond         DET 19
+Jesper Bratt          NJD 15
+Tim Stützle           OTT 15
+Jason Robertson       DAL 14
+Timo Meier            NJD 14
+Vincent Trocheck      NYR 14
+Nick Suzuki           MTL 13
+Patrick Kane          DET 11
+Wyatt Johnston        DAL 10
+Claude Giroux         OTT 09
+J.T. Compher          DET 06
+Adam Fox              NYR 02
 
 
 Group 2
-Brock Boeser          VAN 15
-Bobby McMann          TOR 12
-Pius Suter            VAN 11
-Cole Perfetti         WPG 07
-Josh Anderson         MTL 07
-Rasmus Andersson      CGY 06
-Josh Morrissey        WPG 05
-Kasperi Kapanen       STL,EDM 05
-Steven Lorentz        TOR 04
-Christian Dvorak      MTL 03
+Evgenii Dadonov       DAL 12
+Jamie Benn            DAL 12
+Filip Chytil          NYR 10
+Kirby Dach            MTL 09
+Reilly Smith          NYR 09
+Dougie Hamilton       NJD 06
+Thomas Harley         DAL 06
+Joe Veleno            DET 05
+Miro Heiskanen        DAL 05
+Moritz Seider         DET 04
+Mike Matheson         MTL 03
+Tomas Tatar           NJD 03
+Braden Schneider      NYR 02
 Jake Sanderson        OTT 02
-Martin Pospisil       CGY 02
-Pontus Holmberg       TOR 02
 Zack MacEwen          OTT 02
-Mattias Janmark       EDM 01
 
 
 Group 3
-Corey Perry           EDM 07
-Teddy Blueger         VAN 05
-Darnell Nurse         EDM 04
-Kaiden Guhle          MTL 03
-Dylan DeMelo          WPG 02
-Kevin Bahl            CGY 02
-Nick Jensen           OTT 02
-Tyler Kleven          OTT 02
-David Savard          MTL 01
-Jake McCabe           TOR 01
-Logan Stanley         WPG 01
-Adam Klapka           CGY 00
-Derek Forbort         VAN 00
-Matthew Benning       SJS 00
-Simon Benoit          TOR 00
+Nick Cousins          OTT 05
+Sam Steel             DAL 04
+Esa Lindell           DAL 03
+Jonny Brodzinski      NYR 03
+Luke Hughes           NJD 03
+Nick Jensen           OTT 03
+Brenden Dillon        NJD 02
+Will Borgen           SEA,NYR 02
+Alexandre Carrier     NSH,MTL 01
+Arber Xhekaj          MTL 01
+Brett Pesce           NJD 01
+Christian Fischer     DET 01
+Curtis Lazar          NJD 01
+Mathew Dumba          DAL 00
+Simon Nemec           NJD 00
+
+
+
 
 ```
