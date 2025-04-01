@@ -11,3 +11,13 @@ Forward - 7
 drop Carter Verhaeghe (LW) FLA
 add Lucas Raymond (RW) DET
 ```
+
+```
+17 days left in nhl reg season
+
+
+Player games remaining
+Randy: 201
+Munir: 197
+Brian: 194
+```
